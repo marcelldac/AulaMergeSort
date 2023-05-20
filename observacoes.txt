@@ -1,0 +1,18 @@
+Cada estrutura de dados tem um conjunto de métodos próprios para realizar operações como:
+    - Inserir ou excluir elementos;
+    - Buscar e localizar elementos;
+    - Ordenar (classificar) elementos de acordo com alguma ordem especificada.
+
+Características das estruturas de dados
+
+lineares (ex. arrays) ou não lineares (ex. grafos);
+homogêneas (todos os dados que compõe a estrutura são do mesmo tipo) ou heterogêneas (podem conter dados de vários tipos);
+estáticas (têm tamanho/capacidade de memória fixa) ou dinâmicas (podem expandir).
+
+Importante: https://www.alura.com.br/artigos/estruturas-de-dados-introducao
+
+Slide 5: Pode existir mais de um algoritmo ótimo para resolver um mesmo problema // No calculo de custo, pode ser utilizada uma classe de algoritmos, como também somente um algoritmo.
+
+Merge sort é o mais eficiente dos algortimos.
+
+Classificação é ver quem é o maior
