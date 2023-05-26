@@ -16,3 +16,17 @@ Slide 5: Pode existir mais de um algoritmo ótimo para resolver um mesmo problem
 Merge sort é o mais eficiente dos algortimos.
 
 Classificação é ver quem é o maior
+
+Classificação dos casos no custo:
+- Melhor Caso: menor tempo de execução sobre todas as entradas de tamanho N
+- Pior Caso: Maior tempo de execução sobre todas as entradas de tamanho N
+- Médio Caso (Caso esperado): Média dos tempos de execução de todas as entradas de tamanho N
+Melhor Caso < = Caso Médio < = Pior Caso
+
+STACK:
+Uma boa forma para explicar o LIFO(Last In First Out) quando estiver falando sobre o stack é o exemplo do histórico do navegador
+O ultimo site que você acessou é o primeiro site que aparece no histórico
+QUEUE:
+Para explicar o FIFO(First In First Out): É o exemplo da fila. -> Caso uma idosa entre na fila utilizamos o DEQUE (double-ended queue - fila de duas pontas)
+Circular QUEUE: Ultimo elemento é ligado com o primeiro elemento
+
