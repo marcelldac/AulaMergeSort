@@ -28,10 +28,8 @@ def merge(a,b,compare):
 	return result
 
 def merge_sort(arr, compare = lambda x, y: x < y):
-     #Função lambda usada para ordenar um array em ordem crescente e decrescente.
-     #Por padrão, ela ordena o array em ordem crescente
 	if len(arr) < 2:
-		return arr[:] # Shallow Copy : Cópia rasa do array
+		return arr[:] # Shallow Copy
 	else:
 		middle = len(arr) // 2 
 		a = merge_sort(arr[:middle], compare)
